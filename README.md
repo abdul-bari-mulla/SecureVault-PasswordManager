@@ -60,18 +60,20 @@ python src/password_manager.py
 
 ## 📖 Usage
 
-First time setup
+### First time setup
+```bash
 $ python src/password_manager.py
+```
 Welcome to SecureVault Password Manager!
-Create master password: \*\*\*\*
+Create master password: *\*\*\*
 
-Add password
+### Add password
 Add Password
 Service name: github
 Username: your_username
-Password: \*\*\*\*
+Password: *\*\*\*
 
-Retrieve password
+### Retrieve password
 Get Password
 Service name: github
 Username: your_username
