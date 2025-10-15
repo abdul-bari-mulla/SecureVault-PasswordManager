@@ -68,16 +68,16 @@ Welcome to SecureVault Password Manager!
 Create master password: *\*\*\*
 
 ### Add password
-Add Password
-Service name: github
-Username: your_username
+Add Password<br>
+Service name: github<br>
+Username: your_username<br>
 Password: *\*\*\*
 
 ### Retrieve password
-Get Password
-Service name: github
-Username: your_username
-Password: your_github_password
+Get Password<br>
+Service name: github<br>
+Username: your_username<br>
+Password: your_github_password<br>
 
 ## 🔄 Development Roadmap
 
