@@ -45,7 +45,7 @@ This project is part of my cybersecurity learning journey as a final-year comput
 ## 🚀 Installation
 
 Clone repository
-git clone https://github.com/yourusername/SecureVault-PasswordManager.git
+git clone https://github.com/abdul-bari-mulla/SecureVault-PasswordManager.git
 cd SecureVault-PasswordManager
 
 Create virtual environment
